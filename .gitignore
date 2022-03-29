@@ -614,8 +614,3 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-
-# Excluded Images Generation
-Documentation/Chapter_II/images
-Documentation/Chapter_III/images
-Documentation/Chapter_IV/images
